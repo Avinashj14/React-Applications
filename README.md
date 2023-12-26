@@ -2,14 +2,6 @@
 
 This is a simple React application that includes a navigation bar with routing functionality. It consists of two components: a stopwatch and a todo list.
 
-## Table of Contents
-
-- [Installation](#installation)
-- [Usage](#usage)
-- [Project Structure](#project-structure)
-- [Components](#components)
-- [Routing](#routing)
-- [Run the Application](#run-the-application)
 
 ## Installation
 
